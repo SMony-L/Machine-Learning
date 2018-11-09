@@ -1,4 +1,1 @@
-
-Machine Learning
-Machine Learning with Python
-
+Python Machine Learning
